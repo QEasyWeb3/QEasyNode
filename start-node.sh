@@ -1,6 +1,6 @@
 #!/bin/bash
-node_rpc_port=8545
-metrics_port=9560
+node_rpc_port=8565
+metrics_port=9660
 
 echo -e "kill node \n";
 kill -15 `lsof -t -i:$node_rpc_port`
