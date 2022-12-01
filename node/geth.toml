@@ -32,13 +32,13 @@ InsecureUnlockAllowed = true
 NoUSB = true
 IPCPath = "geth.ipc"
 HTTPHost = "0.0.0.0"
-HTTPPort = 8545
+HTTPPort = 8645
 HTTPCors = ["*"]
 HTTPVirtualHosts = ["*"]
 HTTPModules = ['eth', 'net', 'web3']
 
 WSHost = "0.0.0.0"
-WSPort = 8546
+WSPort = 8646
 WSModules = ['eth', 'net', 'web3']
 WSOrigins = ["*"]
 
@@ -52,7 +52,7 @@ NoDiscovery = false
 StaticNodes=["enode://dd78d80d969c504a130ab3abb59838f8bcd07484fa44675a419d3549b1dec571c9e4636b1497a2b5f157701c80a1dfb85e21b4b627a770d0e1579f485d0737f1@127.0.0.1:32661","enode://3953dc5c938d54ab011d6664c3352d6f1c442292637e2a75c4b6efa114e005ff492d6fa25ee1e31df2034f3b98c3b3a32ffc0ed77c9207f70ebf8f1cbfe98ca7@127.0.0.1:32662","enode://f58008d39288b1ded5ca552905d0580111d430b8869ae6f4cab80d8fa7d883222b7ec23325e7630b345b8a76bd31ab61da02a334b1c695a64e537c2de47f7965@127.0.0.1:32663"]
 BootstrapNodes = ["enode://32821e6ff0e176b78d95f321c0739db895d3a978ca3826c9215e7b38b3181e82b64e1083a0691eefb42947e472791abd979675674aed23c310a10cfb321edc74@127.0.0.1:32664"]
 
-ListenAddr = ":32665"
+ListenAddr = ":32666"
 EnableMsgEvents = false
 
 [Node.HTTPTimeouts]
