@@ -1,5 +1,5 @@
 #!/bin/bash
-node_rpc_port=8565
+node_rpc_port=8645
 metrics_port=9660
 
 echo -e "kill node \n";
