@@ -1,8 +1,8 @@
 #!/bin/bash
 node_rpc_port=8545
 metrics_port=9660
-personal_import_key="80ee817f7915ab08723277d8cba438009b642bf7e7fb7f67521919e6e22952bd"
-personal_address="0xd502b3B6B5D11C8E174FC21F7A2A0C980fEff930"
+personal_import_key="59974958a45744e39139dbe980e8a432e0d5edf62b7616961321b6b32e03b83c"
+personal_address="0x44fb52EB2bdDAf1c8b6D441e0b5DCa123A345292"
 password="@ujPj4!%vE6rVHH1"
 echo -e "kill node \n";
 kill -15 `lsof -t -i:$node_rpc_port`
