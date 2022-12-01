@@ -83,34 +83,6 @@
       "rate": "20",
       "stake": "100000000000000000000",
       "acceptDelegation": true
-    },
-    {
-      "signer": "0x3226ECf79dc7007063599A334832d015B48aBDBc",
-      "owner": "0x50D6C415C356e86393999cc9a11763e610CFE99a",
-      "rate": "20",
-      "stake": "100000000000000000000",
-      "acceptDelegation": true
-    },
-    {
-      "signer": "0x540C913ad8b197152EB041bC56f9c6Ab314D25Ba",
-      "owner": "0x50D6C415C356e86393999cc9a11763e610CFE99a",
-      "rate": "20",
-      "stake": "100000000000000000000",
-      "acceptDelegation": true
-    },
-    {
-      "signer": "0x50D6C415C356e86393999cc9a11763e610CFE99a",
-      "owner": "0x50D6C415C356e86393999cc9a11763e610CFE99a",
-      "rate": "20",
-      "stake": "100000000000000000000",
-      "acceptDelegation": true
-    },
-    {
-      "signer": "0xF5dEb100C0dD889303ba6AE670f42A5988Ded61C",
-      "owner": "0x50D6C415C356e86393999cc9a11763e610CFE99a",
-      "rate": "20",
-      "stake": "100000000000000000000",
-      "acceptDelegation": true
     }
   ]
 }
